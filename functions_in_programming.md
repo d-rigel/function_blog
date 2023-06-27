@@ -10,11 +10,6 @@ In the vast realm of programming languages, functions serve as essential buildin
 - To Compare the common features and differences in function syntax among the following languages: JavaScript, TypeScript, Dart, PHP, Java, Kotlin, C, C++, Objective-C, Swift, and Golang.
 - Acquire the ability to pass arguments to functions and return values from functions.
 
-<!-- #### Resources:
-
-- [YouTube Video](https://www.youtube.com/@junior-it-ai/videos)
-- [Interactive Practice](https://juniorit.ai/resource/course/coding-syntax-and-comments-in-different-languages-practice) -->
-
 #### Contents
 
 1. <a name="b1" href="#a1">What are Functions</a>
