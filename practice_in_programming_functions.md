@@ -162,11 +162,13 @@ print("The average is:", 3.55)
 ```
 
 ```
-Read the TypeScript code below, than select the correct answer
+Read the TypeScript code below, then select the correct answer
 ```
 
 ```typescript {type:code, action: none}
 function reverseString(str: string) {
+  // This is a function that converts a string to a lower case and reverse the string
+  // E.g Hello = olleh
   const result = str.toLowerCase().split("").reverse().join("");
   return result;
 }
