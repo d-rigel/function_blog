@@ -33,7 +33,6 @@ Press the button below to continue.
 ```
 
 ```markdown {}
-Let's ask AI to write a "Hello, World" application in Dart for you.
 Let's ask AI to write a function to perform "addition" computation in Dart language
 ```
 
