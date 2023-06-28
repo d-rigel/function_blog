@@ -28,10 +28,11 @@ Functions, also known as procedures or subroutines, are blocks of code that perf
 In most programming languages, functions follow a common syntax and structure. They typically consist of a function name, a list of input parameters (arguments), and a return type. Here's a generic representation of a function:
 
 ```
-return_type function_name(parameters) {
+ return_type function_name(parameters) {
     // Function body
     // Perform operations
     // Optional return statement
+
 }
 
 ```
@@ -45,9 +46,11 @@ Programming languages offer various types of functions, each serving a specific 
 - Recursive Functions: Recursive functions call themselves within their own body, allowing repetitive tasks to be handled efficiently.
 - Anonymous Functions: Also known as lambda functions, these functions do not have a formal name and can be passed as parameters or assigned to variables.
 
-```
+```js
 //void function call:
-printName(name);
+function voidFunction() {
+  console.log("I'm a void function");
+}
 ```
 
 ```js
@@ -211,7 +214,7 @@ fun main() {
 \```
 
 \```c++ {title: 'C/C++'}
-// In C, C++, and Objective-C, functions are declared with the return type, followed by the function name and parameters. Let's find the average of an array of numbers in C:
+// In C and C++ functions are declared with the return type, followed by the function name and parameters. Let's find the average of an array of numbers in C:
 #include<stdio.h>
 
 #include<stdio.h>
